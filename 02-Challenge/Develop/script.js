@@ -17,6 +17,7 @@ function generatePassword() {
   //prompt to confirm how long user would like their password
   var passLength = window.prompt("Password length? (enter value between (8-128)");
 
+ 
   if (isNaN(passLength)) {
     window.alert("Please choose an appropriate value!");
     return;
@@ -77,6 +78,7 @@ function generatePassword() {
 
 }
 
+//uses function made above to generate password, and creates password in text area
 function createPassword() {
   var password = generatePassword();
   
@@ -92,5 +94,5 @@ function createPassword() {
 }
 
 
-// Add event listener to generate button
+// Add event listener to generate button, will be triggered once password generated
  generateBtn.addEventListener("click", createPassword)
