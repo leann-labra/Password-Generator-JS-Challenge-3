@@ -10,7 +10,7 @@ I will look through my previous assignments for Javascript and Web APIs. I will 
 Steps: 
 1.) my user clicks the generate password button
 2.) user encounters series of prompts for password criteria
-4.) prompted for length of password-- can use if statements
+4.) prompted for length of password
 5.) prompted for upper case, lowercase, numeric, and/or special characters
-6.) password is generated after each criteria is selected
+6.) 
 
