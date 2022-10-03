@@ -12,5 +12,6 @@ Steps:
 2.) user encounters series of prompts for password criteria
 4.) prompted for length of password
 5.) prompted for upper case, lowercase, numeric, and/or special characters
-6.) 
+6.) generated function for creating random password, and then function to call randomly generated password into the text area
 
+Skills used: Javascript, Web APIs
