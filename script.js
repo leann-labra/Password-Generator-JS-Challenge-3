@@ -15,7 +15,7 @@ var confirmUpper = "";
 function generatePassword() {
 
   //prompt to confirm how long user would like their password
-  var passLength = window.prompt("Password length? (enter value between (8-128)");
+  var passLength = window.prompt("How long do you want your password? (enter value between (8-128)");
 
  
   if (isNaN(passLength)) {
@@ -46,7 +46,7 @@ function generatePassword() {
   if (confirmNumber) { //if confirm number is true, then string will be split into an array
   
    const numberArray = number.split('');
-  //number.forEach((number) => {
+  
     //console.log(number)})
   passwordCharacters = passwordCharacters.concat(numberArray);
   } 
