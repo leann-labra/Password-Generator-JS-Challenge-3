@@ -10,4 +10,7 @@ I will look through my previous assignments for Javascript and Web APIs. I will 
 Check it out! 
 https://github.com/leann-labra/Password-Generator-JS-Challenge-3/blob/e7ba3fabed318c55f9f59de869c8af9433c7214a/Password%20Generator%20Gif.gif
 
+or you can check out the page yourself at:
+https://leann-labra.github.io/Password-Generator-JS-Challenge-3/
+
 used: Javascript, Web APIs
